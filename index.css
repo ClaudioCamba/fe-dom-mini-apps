@@ -14,3 +14,6 @@ body {
   width: 33%;
   background-color: rgb(241, 26, 26);
 }
+.field-button:disabled {
+  color: rgb(0, 0, 0);
+}
