@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(46, 48, 138);
+}
+.field-wrap {
+  display: flex;
+  margin: 1rem 5rem;
+  list-style: none;
+  flex-direction: column;
+  background-color: rgb(67, 161, 103);
+}
+.field-button {
+  height: 50px;
+  display: inline-block;
+  width: 33%;
+  background-color: rgb(241, 26, 26);
+}
